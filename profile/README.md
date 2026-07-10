@@ -1,6 +1,6 @@
 # Open-Spek
 
-> Open Specification Knowledge
+> **Open** **Spe**cification **K**nowledge
 
 **Source is no longer code. Source is knowledge.**
 
